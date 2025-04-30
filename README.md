@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## Usage
 1. Prepare Your Q&A Database
 
-Edit `qa_database.json`
+Edit `qa.json`
 
 ```bash
 {

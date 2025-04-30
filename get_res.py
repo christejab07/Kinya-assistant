@@ -2,7 +2,6 @@ import json
 import torch
 import torchaudio
 from transformers import WhisperProcessor, WhisperForConditionalGeneration
-from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 
 # 1. Load Q&A database
