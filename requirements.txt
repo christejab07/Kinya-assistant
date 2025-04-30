@@ -1,0 +1,5 @@
+torch>=2.0
+torchaudio>=2.0
+transformers>=4.25
+fuzzywuzzy>=0.18
+python-Levenshtein>=0.12
